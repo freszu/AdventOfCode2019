@@ -95,7 +95,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 ### Gradle template
-.gradle
+.gradle/
 /build/
 
 # Ignore Gradle GUI config
